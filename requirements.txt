@@ -1,0 +1,7 @@
+pandas
+numpy==1.26.4
+scipy
+tqdm
+matplotlib
+tensorflow-gpu==2.9
+livelossplot
